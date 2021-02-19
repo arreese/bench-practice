@@ -8,6 +8,7 @@ class BenchPracticeApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Verify context loads");
 	}
 
 }
